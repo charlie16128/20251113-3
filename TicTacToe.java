@@ -1,4 +1,4 @@
-﻿public class TicTacToe {
+public class TicTacToe {
     private char[][] board;
     private int moves;
 
